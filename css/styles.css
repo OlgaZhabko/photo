@@ -10,7 +10,7 @@ h1 { color: #5c8a8a;
         justify-content: flex-start;}
 
 section {display: flex;
-	 justify-content: space-around;}
+	 justify-content: center;}
 	
 a   {color: #85adad;
 	 font-size: 33px;
@@ -28,7 +28,7 @@ figcapture {color: #1f2e2e;
             font-size: 37px;
 			font-weight: 900px;
 			text-align: center;
-            margin-bottom: 25px;}
+            margin: 10 20 25 20px;}
 
 figure img   {border: 1px;
        border-color: #527a7a;
